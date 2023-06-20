@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Document</title>
+</head>
+<style>
+    * {
+         text-align: center;
+         background-color: blueviolet;
+         color: white
+  }
+</style>
+
+  <body>
+    <h1>Bienvenido a mi sitio Web</h1>
+    <h2>Diseño de sitios WEB</h2>
+    <hr>
+    <h3>Nombre: Adriana Milena Canon Prieto</h3>
+    <h3>Programa: Ingenieria de Sistemas</h3>
+    <hr>
+    <p>Mis datos de contacto son:<br>
+        TELEFONO:3115233314
+        GRUPO:301122_13	
+        EMAIL: amcp_84@hotmail.com      
+        CEAD JOSE ACEVEDO Y GOMEZ 
+        AÑO 2023
+      </p>
+    </body>
+
+</html>
